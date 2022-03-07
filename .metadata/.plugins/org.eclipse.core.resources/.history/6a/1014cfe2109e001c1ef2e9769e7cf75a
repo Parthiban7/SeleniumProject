@@ -1,0 +1,12 @@
+package tests;
+
+import org.testng.annotations.BeforeTest;
+
+public class test_googleSearch {
+	
+	@BeforeTest
+	public void launchBrowser() {
+		
+	}
+
+}

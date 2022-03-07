@@ -1,0 +1,17 @@
+package tests;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.BeforeTest;
+
+import com.beust.jcommander.Parameter;
+
+public class test_googleSearch {
+	WebDriver driver;
+	
+	@BeforeTest
+	@Parameter("browser")
+	public void launchBrowser() {
+		if(browser)
+	}
+
+}

@@ -1,0 +1,10 @@
+package tests;
+
+public class test_googleSearch {
+	
+	@BeforeTest
+	public void launchBrowser() {
+		
+	}
+
+}
